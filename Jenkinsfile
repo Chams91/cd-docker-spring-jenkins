@@ -12,7 +12,7 @@ pipeline {
     
     environment {
         
-    registry = "sunnychams/docker-spring"
+    registry = "sunnychams/reservation-esprit"
     
     registryCredential = 'dockerhub'
     
